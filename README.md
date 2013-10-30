@@ -54,3 +54,7 @@ Add the following snippet to pom.xml of your maven project to generate liverebel
 
 To manually execute the goal, run 'mvn jrebel:generate-liverebel-xml' and rebel.xml will be generated to the target directory. 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jrdalpra/maven-jrebel-plugin/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
